@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,70:1b2838,100:0f3460&height=200&section=header&text=The%20Cyber%20Bite&fontSize=52&fontColor=ffffff&fontAlignY=50&desc=Cybersecurity%20Research%20%E2%80%A2%20Education%20%E2%80%A2%20Community&descSize=16&descAlignY=68&descColor=7eb8f7" />
 </div>
 
-<br>
 
 <div align="center">
 
@@ -10,7 +9,6 @@
 
 </div>
 
-<br>
 
 <div align="center">
 
@@ -186,17 +184,6 @@ Reach out through any of the channels below. Response time is fastest over email
 
 <br>
 
-<div align="center">
-
-```
-For project collaboration      →   thecyberbite@gmail.com
-For community and discussion   →   t.me/the_cyber_byte
-For updates and content        →   Instagram  /  Facebook  /  X
-```
-
-</div>
-
-<br>
 
 ---
 
