@@ -27,11 +27,11 @@
 
 ## &nbsp;Who We Are
 
-The Cyber Bite is a cybersecurity research and education team built by students who take security seriously as both a discipline and a responsibility. The team brings together undergraduate security practitioners focused on web application security, malware analysis, threat research, and security tooling.
-
-Work produced under this name is grounded in hands-on methodology. Every lab is structured, every finding is documented, and every tool is built with a clear purpose. The standard held internally is the same standard the professional industry expects — because that is exactly where this team is headed.
-
-The Cyber Bite operates under a strict ethical framework. All research is conducted on authorized systems and environments only, and responsible disclosure principles are followed without exception.
+The Cyber Bite is a cybersecurity research and education team composed of undergraduate security practitioners with a focused commitment to web application security, malware analysis, threat research, and security tooling. The team was founded on the belief that meaningful skill in this field is built through structured practice, not passive study.
+ 
+Every project produced here reflects that standard. Labs are designed with intent, findings are documented with precision, and tools are built with a defined purpose. The quality of work is held to professional industry expectations from day one, not as an aspiration but as a baseline.
+ 
+Security research at The Cyber Bite is conducted exclusively within authorized, controlled environments. Ethical boundaries are non-negotiable, and responsible disclosure principles govern every engagement without exception. The team does not cut corners on process, and that discipline is reflected in everything published under this name.
 
 <br>
 
